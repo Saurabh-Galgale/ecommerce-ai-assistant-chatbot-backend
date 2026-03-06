@@ -1,0 +1,135 @@
+[
+  {
+    "id": "p_001",
+    "name": "AeroGrip Pro Running Shoes",
+    "category": "Footwear",
+    "price": 2499,
+    "currency": "INR",
+    "rating": 4.6,
+    "image_url": "https://yoursite.com/images/aerogrip.jpg",
+    "specs": {
+      "color": "Midnight Black",
+      "weight": "280g",
+      "material": "Breathable Mesh",
+      "features": ["Water-resistant", "Enhanced Arch Support"]
+    },
+    "description": "Lightweight, high-performance running shoes designed for endurance. Features a high-traction sole for mixed terrains.",
+    "review_summary": [
+      "Highly recommended for flat feet due to the stiff arch support.",
+      "Perfect for intense physical training and long-distance running; very durable.",
+      "Runs about a half-size small, recommend ordering up."
+    ],
+    "tags": ["fitness", "running", "training", "outdoors"]
+  },
+  {
+    "id": "p_002",
+    "name": "FocusMax Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 3500,
+    "currency": "INR",
+    "rating": 4.8,
+    "image_url": "https://yoursite.com/images/focusmax.jpg",
+    "specs": {
+      "color": "Matte Grey",
+      "battery_life": "35 hours",
+      "connectivity": "Bluetooth 5.3",
+      "features": ["Active Noise Cancellation (ANC)", "Built-in Mic"]
+    },
+    "description": "Over-ear wireless headphones that block out ambient noise, perfect for deep work or noisy environments.",
+    "review_summary": [
+      "Absolute lifesaver for blocking out background noise while studying for competitive exams.",
+      "Audio quality is amazing for music, but the microphone is just average for phone calls.",
+      "Very comfortable even after wearing them for 6 hours straight."
+    ],
+    "tags": ["audio", "study", "work", "music", "wireless"]
+  },
+  {
+    "id": "p_003",
+    "name": "SummitX 2-Person Trekking Tent",
+    "category": "Outdoors",
+    "price": 4200,
+    "currency": "INR",
+    "rating": 4.4,
+    "image_url": "https://yoursite.com/images/summitx.jpg",
+    "specs": {
+      "weight": "2.1kg",
+      "dimensions": "210 x 140 x 110 cm",
+      "material": "210T Polyester PU3000mm",
+      "features": ["100% Waterproof", "Wind-resistant aluminum poles"]
+    },
+    "description": "A compact, lightweight tent designed for backpackers. Quick to set up and built to withstand harsh weather.",
+    "review_summary": [
+      "Survived a heavy rainstorm on a 3-day hike without a single leak.",
+      "Very lightweight and easy to carry, but a bit cramped if both people are over 6 feet tall.",
+      "Setup takes less than 5 minutes once you get the hang of it."
+    ],
+    "tags": ["camping", "hiking", "waterproof", "travel"]
+  },
+  {
+    "id": "p_004",
+    "name": "ErgoSpine Posture Chair",
+    "category": "Furniture",
+    "price": 8500,
+    "currency": "INR",
+    "rating": 4.7,
+    "image_url": "https://yoursite.com/images/ergospine.jpg",
+    "specs": {
+      "color": "Charcoal",
+      "weight_capacity": "150kg",
+      "material": "High-density foam and mesh",
+      "features": ["Adjustable Lumbar Support", "3D Armrests"]
+    },
+    "description": "An ergonomic office chair engineered to support the natural curve of your spine during long sitting sessions.",
+    "review_summary": [
+      "Saved my lower back. I sit at my desk reading and coding for 8 hours a day and feel no pain.",
+      "Assembly was a bit frustrating and took about an hour.",
+      "The adjustable lumbar piece is the best feature for posture correction."
+    ],
+    "tags": ["office", "study", "ergonomic", "health"]
+  },
+  {
+    "id": "p_005",
+    "name": "Lumina Smart Desk Lamp",
+    "category": "Electronics",
+    "price": 1200,
+    "currency": "INR",
+    "rating": 4.2,
+    "image_url": "https://yoursite.com/images/lumina.jpg",
+    "specs": {
+      "color": "White",
+      "power": "12W",
+      "features": [
+        "Adjustable Color Temperature (Warm to Cool)",
+        "Wireless Charging Base"
+      ]
+    },
+    "description": "A sleek, modern desk lamp that reduces eye strain and charges your phone simultaneously.",
+    "review_summary": [
+      "The cool white light setting is perfect for late-night reading without straining my eyes.",
+      "The wireless charger is a bit slow, but it's a nice bonus feature.",
+      "Very flexible neck, easy to point the light exactly where you need it on your textbook."
+    ],
+    "tags": ["lighting", "study", "tech", "desk"]
+  },
+  {
+    "id": "p_006",
+    "name": "HydraFlask Stainless Steel Bottle",
+    "category": "Accessories",
+    "price": 899,
+    "currency": "INR",
+    "rating": 4.9,
+    "image_url": "https://yoursite.com/images/hydraflask.jpg",
+    "specs": {
+      "capacity": "1 Liter",
+      "material": "18/8 Stainless Steel",
+      "features": ["Vacuum Insulated", "Leak-proof Straw Lid"]
+    },
+    "description": "Double-wall vacuum insulated bottle that keeps your drinks icy cold for 24 hours or piping hot for 12 hours.",
+    "review_summary": [
+      "I left it in my hot car all day and the water still had ice in it. Amazing.",
+      "Very durable, dropped it twice on concrete and it only has a tiny scratch.",
+      "The straw lid is super convenient for drinking while working out or driving."
+    ],
+    "tags": ["hydration", "fitness", "travel", "everyday"]
+  }
+]
